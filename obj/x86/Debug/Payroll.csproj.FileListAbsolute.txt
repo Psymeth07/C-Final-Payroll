@@ -1,0 +1,9 @@
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\bin\Debug\FinalPayroll.exe
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\bin\Debug\FinalPayroll.pdb
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.form2.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\Payroll.Form1.resources

@@ -1,0 +1,59 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\bin\Debug\FinalPayroll.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\bin\Debug\FinalPayroll.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\obj\x86\Debug\FinalPayroll.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\FinalPayroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\bin\Debug\FinalPayroll.exe
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\bin\Debug\FinalPayroll.pdb
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\C# Projects\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.Form2.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\bin\Debug\FinalPayroll.exe
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\bin\Debug\FinalPayroll.pdb
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.form2.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Debug\FinalPayroll.csproj.GenerateResource.Cache
+G:\Files\FinalPayroll\obj\x86\Debug\FinalPayroll.exe
+G:\Files\FinalPayroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\Student\Desktop\FinalPayroll\bin\Debug\FinalPayroll.exe
+C:\Users\Student\Desktop\FinalPayroll\bin\Debug\FinalPayroll.pdb
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\FinalPayroll.form2.resources
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\FinalPayroll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\Francisco Payroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\Student\Desktop\Francisco Payroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\kathy\Desktop\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\kathy\Desktop\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.pdb
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.exe
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.pdb
+D:\C# Example\New folder (2)\Francisco Payroll\bin\Debug\FinalPayroll.exe
+D:\C# Example\New folder (2)\Francisco Payroll\bin\Debug\FinalPayroll.pdb
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.csprojResolveAssemblyReference.cache
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.Form1.resources
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.form2.resources
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+D:\C# Example\New folder (2)\Francisco Payroll\obj\x86\Debug\FinalPayroll.csproj.GenerateResource.Cache
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.exe
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.pdb
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\bin\Debug\FinalPayroll.exe
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\bin\Debug\FinalPayroll.pdb
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.csprojResolveAssemblyReference.cache
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.Form1.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.form2.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.Properties.Resources.resources
+C:\Users\kathy\Desktop\New folder\Francisco Payroll\obj\x86\Debug\FinalPayroll.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\bin\Release\FinalPayroll.exe
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\bin\Release\FinalPayroll.pdb
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.Form1.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.form2.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.exe
+C:\Users\Administrator\Desktop\FinalPayroll\FinalPayroll\obj\x86\Release\FinalPayroll.pdb
